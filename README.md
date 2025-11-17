@@ -2,7 +2,7 @@
 
 #### A Full-Stack Developer by day ☼ and at sleep at night  ☾
 
-Currently developing [Njiani](https://njiani.co.ke)<br>
+Currently developing [Njiani](https://njiani.co.ke) and [Ord](https://ordtech.org)<br>
 My work [Here](https://oscardev.site)<br>
 
 - ⚙️ I use daily: `.py`, `.ts`, `.html`, `.css`, `.kt`, `.env`
